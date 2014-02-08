@@ -1,7 +1,7 @@
 {
   "version": "0.1",
-  "name": "Open Web App",
-  "description": "Your new awesome Open Web App",
+  "name": "NFC Test",
+  "description": "Checks if NFC is enabled or not",
   "launch_path": "/index.html",
   "icons": {
     "16": "/app-icons/icon-16.png",
@@ -9,7 +9,7 @@
     "128": "/app-icons/icon-128.png"
   },
   "developer": {
-    "name": "Your Name",
+    "name": "Gio",
     "url": "http://yourawesomeapp.com"
   },
   "locales": {
